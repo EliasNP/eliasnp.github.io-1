@@ -70,6 +70,10 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
+<<<<<<< HEAD
+=======
+theme: jekyll-theme-architect
+>>>>>>> 83ffdd231705a5a5628de836c0012116c6da2aaa
 
 # Use the following plug-ins
 gems:
