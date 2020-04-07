@@ -70,7 +70,6 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-theme: jekyll-theme-hacker
 
 # Use the following plug-ins
 gems:
