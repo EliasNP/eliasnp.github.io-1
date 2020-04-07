@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Algo de Información sobre mí
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Paso de Repetirme, buscame en Twitter o mandame un mail y pregunta.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Telegram](http://t.me/EliasNieva)
+[eliasnieva@keemail.me](mailto:eliasnieva@keemail.me)
